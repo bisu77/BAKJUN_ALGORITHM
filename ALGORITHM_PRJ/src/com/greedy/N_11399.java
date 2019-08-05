@@ -18,7 +18,7 @@ public class N_11399 {
 			people_time[i] = sc.nextInt();
 		}
 		
-		Arrays.sort(people_time);//¿À¸§Â÷¼ø Á¤·Ä
+		Arrays.sort(people_time);//ì˜¤ë¦„ì°¨ìˆœ ì •ë ¬
 	
 		for(int i=0;i<people_cnt;i++) {
 			result += pre+people_time[i];
